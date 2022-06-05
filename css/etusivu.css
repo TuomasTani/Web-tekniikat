@@ -16,6 +16,11 @@ footer span {
 
   div {
       display: block;
-      border-style: groove;
+      
       
   }
+
+  header {
+      border-style: groove;
+  }
+
