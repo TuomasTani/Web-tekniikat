@@ -13,3 +13,9 @@ footer span {
     display: block;
     color: black
   }
+
+  div {
+      display: block;
+      border-style: groove;
+      
+  }
